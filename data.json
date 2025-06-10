@@ -1,0 +1,38 @@
+[
+    {
+      "id": "1",
+      "teamA": "Mumbai Indians",
+      "teamB": "Chennai Super Kings",
+      "teamALogo": "mi",
+      "teamBLogo": "csk",
+      "date": "2025-04-16",
+      "time": "19:30",
+      "venue": "Wankhede Stadium, Mumbai",
+      "isLive": true,
+      "ticketsAvailable": true
+    },
+    {
+      "id": "2",
+      "teamA": "Royal Challengers Bangalore",
+      "teamB": "Kolkata Knight Riders",
+      "teamALogo": "rcb",
+      "teamBLogo": "kkr",
+      "date": "2025-04-16",
+      "time": "15:30",
+      "venue": "M. Chinnaswamy Stadium, Bangalore",
+      "isLive": false,
+      "ticketsAvailable": true
+    },
+    {
+      "id": "3",
+      "teamA": "Delhi Capitals",
+      "teamB": "Punjab Kings",
+      "teamALogo": "dc",
+      "teamBLogo": "kp",
+      "date": "2025-04-17",
+      "time": "19:30",
+      "venue": "Arun Jaitley Stadium, Delhi",
+      "isLive": true,
+      "ticketsAvailable": false
+    }
+]
